@@ -8,7 +8,6 @@
       <div class="mx-auto">
         <h4 class="white--text">upeng5</h4>
       </div>
-      <!-- LINKEDIN URL:  www.linkedin.com/in/moismail-upeng5 -->
       <v-btn medium color="my-secondary-button" @click="redirect">Linkedin</v-btn>
     </v-footer>
   </v-app>
