@@ -8,7 +8,7 @@ const IMAGE_DEFAULT_PATH: string =
   "{S3_DEFAULT_IMAGE_PATH}";
 
 // @route   GET api/v1/products/ping
-// @desc    Gets all the products
+// @desc    Pings the api
 // @access  Public
 const ping = (req: Request, res: Response): void => {
   res.json({ status: "success", message: "Hello World!" });
