@@ -28,7 +28,7 @@ export default {
   }),
   methods: {
     redirect() {
-      window.location.href = "http://www.linkedin.com/in/moismail-upeng5";
+      window.location.href = "{LINKEDIN_LINK}";
     }
   }
 };
