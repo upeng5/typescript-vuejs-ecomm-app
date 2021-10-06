@@ -16,6 +16,6 @@ A simple ecommerce web application built using nodejs, typescript, firebase, AWS
 ## Cart page 2
 ![alt text](https://user-images.githubusercontent.com/41773320/136240778-8263abd3-bedd-457f-9587-061e7f5b0496.png)
 
-#TODO
+# TODO
 Finish setting up payment processing
 
