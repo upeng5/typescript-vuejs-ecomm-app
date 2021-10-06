@@ -3,7 +3,7 @@ A simple ecommerce web application built using nodejs, typescript, firebase, AWS
 
 # Preview
 ## Login page
-https://user-images.githubusercontent.com/41773320/136240779-396e30a8-c7fe-419f-838e-a10a1af26426.png
+![alt text](https://user-images.githubusercontent.com/41773320/136240779-396e30a8-c7fe-419f-838e-a10a1af26426.png)
 
 ## Home page
 https://user-images.githubusercontent.com/41773320/136240759-b6d1f8ae-38fc-41f6-afff-944061353eef.png
