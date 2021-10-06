@@ -24,7 +24,7 @@ router.get("/logout", userController.logoutUser);
 // @access  Private
 router.post("/cart/:id", auth.isAuth, userController.postAddProductToCart);
 
-// @route   DELETE api/v1/users/cart/:username/:id
+// @route   POST api/v1/users/cart/:username/:id
 // @desc    Delete a product from cart
 // @access  Private
 router.post(
@@ -33,7 +33,7 @@ router.post(
   userController.postDeleteProductFromCart
 );
 
-// @route   GET api/v1/users/cart
+// @route   POST api/v1/users/cart
 // @desc    Get cart items
 // @access  Private
 router.post("/cart", auth.isAuth, userController.getCartItems);
