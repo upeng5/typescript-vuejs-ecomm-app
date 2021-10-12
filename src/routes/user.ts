@@ -14,7 +14,7 @@ router.post("/", userController.postSignUpUser);
 // @access  Public
 router.post("/signin", userController.postSignInUser);
 
-// @route   GET api/v1/users/logout
+// @route   POST api/v1/users/logout
 // @desc    Logout a user
 // @access  Private
 router.get("/logout", userController.logoutUser);
